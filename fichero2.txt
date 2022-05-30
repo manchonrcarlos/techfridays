@@ -1,1 +1,3 @@
 Este es el fichero 2
+
+Introduzco modificación en fichero 2
