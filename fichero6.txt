@@ -1,2 +1,3 @@
 Nueva linea de texto en fichero 6
 Modificamos el fichero
+Modificamos de nuevo el fichero
