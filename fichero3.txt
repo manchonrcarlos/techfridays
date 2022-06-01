@@ -1,4 +1,4 @@
-Este es el fichero 3
+aEste es el fichero 3
 
 Modificamos el fichero 3
 Modificamos el fichero 3 otra vez

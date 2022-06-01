@@ -1,4 +1,5 @@
-Este es el fichero 2 con modificaciones
+
+aEste es el fichero 2 con modificaciones
 
 Introduzco modificación en fichero 2
 Y otra más
